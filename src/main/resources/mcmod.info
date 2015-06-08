@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
-  "version": "${version}",
-  "mcversion": "${mcversion}",
+  "modid": "c2c",
+  "name": "Coal 2 Charcoal",
+  "description": "A mod that adds and encourages the conversion of coal and charcoal.",
+  "version": "3.1.1.0",
+  "mcversion": "1.8",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["Jonessc2016"],
+  "credits": "Jonessc2016 for the idea, and for making the mod.",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
